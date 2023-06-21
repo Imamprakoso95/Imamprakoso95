@@ -1,0 +1,7 @@
+$ git status
+
+$ git add <directory>
+$ git add hello.py
+$ git add .
+
+$ git commit -m "add config file"
